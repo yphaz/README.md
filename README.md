@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Ml/Ai<br>👯 I’m looking to collaborate on SpaceX<br>🤝 I’m looking for help with Building a self sufficient environment<br>🌱 I’m currently learning Robotics<br>💬 Ask me about Physics<br>⚡ Fun fact I am delulu
 
 
 # 💻 Tech Stack:
